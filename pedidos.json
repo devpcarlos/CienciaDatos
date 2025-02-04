@@ -1,0 +1,32 @@
+[
+    {
+        "order_id" : 101,
+        "customer" : "Ana Lopez",
+        "city" : "Madrid",
+        "products" : [
+            { "name" : "Laptop", "price" : 1200, "quantity" : 1},
+            { "name" : "Mouse", "price" : 25, "quantity" : 2}
+        ],
+        "date" : "2023-05-15"
+    },
+    {
+        "order_id" : 102,
+        "customer" : "Carlos Barrera",
+        "city" : "San carlos",
+        "products" : [
+            { "name" : "Telefono", "price" : 800, "quantity" : 1},
+            { "name" : "Cargador", "price" : 15, "quantity" : 1}
+        ],
+        "date" : "2023-05-16"
+    },
+    {
+        "order_id" : 103,
+        "customer" : "Maria Gomez",
+        "city" : "Monteria",
+        "products" : [
+            { "name" : "Tablet", "price" : 300, "quantity" : 1},
+            { "name" : "Funda", "price" : 20, "quantity" : 1}
+        ],
+        "date" : "2023-05-17"
+    }
+]
